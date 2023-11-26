@@ -1,0 +1,21 @@
+model_name,model_type,updated,downloaded,liked
+distilbert-base-uncased-finetuned-sst-2-english,Text Classification,Oct 26,37.4M,351
+cardiffnlp/twitter-roberta-base-irony,Text Classification,Aug 2,6.78M,13
+mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis,Text Classification,Mar 16,6.52M,122
+lxyuan/distilbert-base-multilingual-cased-sentiments-student,Text Classification,Jun 24,6.51M,53
+SamLowe/roberta-base-go_emotions,Text Classification,Oct 4,6.51M,187
+Ashishkr/query_wellformedness_score,Text Classification,18 days ago,6.43M,14
+marieke93/MiniLM-evidence-types,Text Classification,"Jun 11, 2022",6.43M,5
+cardiffnlp/twitter-roberta-base-sentiment,Text Classification,Jan 20,6.01M,225
+nlptown/bert-base-multilingual-uncased-sentiment,Text Classification,Jul 27,1.83M,205
+ProsusAI/finbert,Text Classification,May 23,1.78M,385
+cardiffnlp/twitter-roberta-base-sentiment-latest,Text Classification,May 28,1.62M,265
+martin-ha/toxic-comment-model,Text Classification,"May 6, 2022",1.18M,31
+cardiffnlp/twitter-xlm-roberta-base-sentiment,Text Classification,Jul 19,1.13M,152
+koheiduck/bert-japanese-finetuned-sentiment,Text Classification,"Dec 20, 2022",838k,10
+savasy/bert-base-turkish-sentiment-cased,Text Classification,Jun 22,739k,20
+j-hartmann/emotion-english-distilroberta-base,Text Classification,Jan 2,719k,248
+microsoft/deberta-large-mnli,Text Classification,"May 21, 2021",660k,8
+yiyanghkust/finbert-tone,Text Classification,"Oct 17, 2022",484k,106
+papluca/xlm-roberta-base-language-detection,Text Classification,17 days ago,481k,159
+cross-encoder/ms-marco-MiniLM-L-12-v2,Text Classification,"Aug 5, 2021",480k,36
