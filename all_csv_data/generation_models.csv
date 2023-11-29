@@ -1,0 +1,21 @@
+model_name,model_type,updated,downloaded,liked
+gpt2,Text Generation,Jun 30,22M,1.51k
+distilgpt2,Text Generation,Apr 29,10.7M,275
+tiiuae/falcon-7b-instruct,Text Generation,Sep 29,7.33M,754
+stabilityai/StableBeluga-7B,Text Generation,Aug 29,3.09M,124
+davidkim205/komt-mistral-7b-v1,Text Generation,Oct 24,1.33M,5
+bigscience/bloom-560m,Text Generation,Sep 26,1.24M,285
+tiiuae/falcon-40b-instruct,Text Generation,Sep 29,1.11M,1.12k
+meta-llama/Llama-2-7b-chat-hf,Text Generation,16 days ago,972k,1.94k
+meta-llama/Llama-2-70b-chat-hf,Text Generation,16 days ago,859k,1.69k
+facebook/opt-1.3b,Text Generation,Sep 15,809k,121
+meta-llama/Llama-2-13b-chat-hf,Text Generation,16 days ago,491k,713
+meta-llama/Llama-2-7b-hf,Text Generation,16 days ago,484k,865
+TheBloke/CodeLlama-34B-Instruct-GPTQ,Text Generation,Sep 27,456k,58
+mistralai/Mistral-7B-v0.1,Text Generation,Oct 12,453k,1.99k
+TheBloke/Llama-2-7B-Chat-GPTQ,Text Generation,Sep 27,439k,182
+gpt2-large,Text Generation,Jun 30,433k,176
+facebook/opt-125m,Text Generation,Sep 15,361k,88
+HuggingFaceM4/tiny-random-LlamaForCausalLM,Text Generation,Oct 17,350k,12
+gpt2-xl,Text Generation,Oct 23,343k,219
+baichuan-inc/Baichuan-13B-Base,Text Generation,Jul 19,323k,169
