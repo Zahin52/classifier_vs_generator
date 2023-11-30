@@ -1,21 +1,21 @@
 model_name,model_type,updated,downloaded,liked
-gpt2,Text Generation,Jun 30,22M,1.51k
-distilgpt2,Text Generation,Apr 29,10.7M,275
+gpt2,Text Generation,Jun 30,21.9M,1.52k
+distilgpt2,Text Generation,Apr 29,14.7M,275
 tiiuae/falcon-7b-instruct,Text Generation,Sep 29,7.32M,754
 stabilityai/StableBeluga-7B,Text Generation,Aug 29,3.09M,124
-davidkim205/komt-mistral-7b-v1,Text Generation,Oct 24,1.33M,5
+davidkim205/komt-mistral-7b-v1,Text Generation,Oct 24,1.45M,5
 bigscience/bloom-560m,Text Generation,Sep 26,1.24M,285
 tiiuae/falcon-40b-instruct,Text Generation,Sep 29,1.13M,1.12k
-meta-llama/Llama-2-7b-chat-hf,Text Generation,16 days ago,990k,1.95k
+meta-llama/Llama-2-7b-chat-hf,Text Generation,17 days ago,990k,1.96k
 facebook/opt-1.3b,Text Generation,Sep 15,837k,121
-meta-llama/Llama-2-70b-chat-hf,Text Generation,16 days ago,794k,1.69k
-meta-llama/Llama-2-13b-chat-hf,Text Generation,16 days ago,500k,714
-meta-llama/Llama-2-7b-hf,Text Generation,16 days ago,498k,866
-TheBloke/CodeLlama-34B-Instruct-GPTQ,Text Generation,Sep 27,456k,58
-mistralai/Mistral-7B-v0.1,Text Generation,Oct 12,453k,2k
+meta-llama/Llama-2-70b-chat-hf,Text Generation,17 days ago,794k,1.7k
+meta-llama/Llama-2-13b-chat-hf,Text Generation,17 days ago,500k,716
+meta-llama/Llama-2-7b-hf,Text Generation,17 days ago,498k,869
+mistralai/Mistral-7B-v0.1,Text Generation,Oct 12,476k,2.01k
+TheBloke/CodeLlama-34B-Instruct-GPTQ,Text Generation,Sep 27,453k,59
 TheBloke/Llama-2-7B-Chat-GPTQ,Text Generation,Sep 27,435k,182
-gpt2-large,Text Generation,Jun 30,433k,176
-HuggingFaceM4/tiny-random-LlamaForCausalLM,Text Generation,Oct 17,414k,12
-facebook/opt-125m,Text Generation,Sep 15,377k,88
-gpt2-xl,Text Generation,Oct 23,343k,219
-baichuan-inc/Baichuan-13B-Base,Text Generation,Jul 19,323k,169
+HuggingFaceM4/tiny-random-LlamaForCausalLM,Text Generation,Oct 17,419k,12
+gpt2-large,Text Generation,Jun 30,403k,177
+facebook/opt-125m,Text Generation,Sep 15,377k,89
+gpt2-xl,Text Generation,Oct 23,334k,219
+mistralai/Mistral-7B-Instruct-v0.1,Text Generation,Oct 11,331k,1.09k
